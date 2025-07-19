@@ -1,0 +1,235 @@
+{
+  "fiches": [
+    {
+      "id": "776f0a38-7c61-4fd6-b0d9-3be0a94771a7",
+      "kanji": "卵",
+      "kana": "たまご",
+      "fr": "œuf",
+      "analyse": "Le mot 'tamago' est un nom commun qui signifie 'œuf'. Il est utilisé tel quel dans la plupart des contextes, que ce soit pour parler d'un œuf de poule à cuisiner ou d'un œuf de Pâques.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "これはたまごです。",
+          "traduction": "C'est un œuf.",
+          "explication": "'これ' signifie 'ceci', 'は' est la particule de sujet et 'です' est le verbe 'être'."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "たまご(卵)を焼いています。",
+          "traduction": "Je suis en train de faire cuire un œuf.",
+          "explication": "'を' est la particule d'objet direct et '焼いています' est la forme en cours d'action du verbe 'yaku' qui signifie 'faire cuire'."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "彼はたまご(卵)アレルギーです。",
+          "traduction": "Il est allergique aux œufs.",
+          "explication": "'彼' signifie 'il', 'アレルギー' est le mot pour 'allergie' et 'です' est le verbe 'être'. Au Japon, on dit souvent 'être une allergie' au lieu de 'avoir une allergie'."
+        }
+      ],
+      "humour": "Alors, tu veux une astuce pour te souvenir de 'tamago' ? Pense à un œuf qui tombe, ça fait 'tama' et 'go', 'tamago' !"
+    },
+    {
+      "id": "b05fd744-f628-44cd-843d-0eed8c723086",
+      "kanji": "リンゴ",
+      "kana": "りんご",
+      "fr": "Pomme",
+      "analyse": "Le mot 'ringo' est un nom commun qui désigne une pomme. Il n'a pas de kanji particulier, on l'écrit généralement en katakana ou en hiragana.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "これはりんごです。",
+          "traduction": "Ceci est une pomme.",
+          "explication": "Dans cette phrase, 'これ' signifie 'ceci' et 'です' est une forme polie de 'être'."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "りんごが好きです。",
+          "traduction": "J'aime les pommes.",
+          "explication": "Ici, 'が' est une particule qui marque le sujet et '好き' signifie 'aimer'."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "りんごの木から落ちた。 (りんごのきからおちた。)",
+          "traduction": "Je suis tombé du pommier.",
+          "explication": "Dans cette phrase, 'の' est une particule qui indique la possession, '木' signifie 'arbre', 'から' signifie 'de' et '落ちた' est le passé de 'tomber'."
+        }
+      ],
+      "humour": "Pour te souvenir du mot 'ringo', pense à Ringo Starr, le batteur des Beatles, qui adorait manger des pommes avant chaque concert. Un peu tiré par les cheveux, mais ça peut aider, non ?"
+    },
+    {
+      "id": "9ffbf902-b720-43b2-a200-84b34fdc02c4",
+      "kanji": "よりも",
+      "kana": "yorimo",
+      "fr": "plus que",
+      "analyse": "Yorimo est une particule comparative utilisée pour exprimer 'plus que' ou 'plutôt que'. Elle est souvent utilisée dans des phrases comparatives ou pour exprimer une préférence.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "私は犬よりも猫が好きです。(Watashi wa inu yorimo neko ga suki desu.)",
+          "traduction": "Je préfère les chats aux chiens.",
+          "explication": "Dans cet exemple, 'yorimo' est utilisé pour exprimer une préférence pour les chats plutôt que pour les chiens."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "彼は学校よりも家で勉強するのが好きです。(Kare wa gakkou yorimo ie de benkyou suru no ga suki desu.)",
+          "traduction": "Il préfère étudier à la maison plutôt qu'à l'école.",
+          "explication": "'Yorimo' est utilisé ici pour montrer une préférence pour étudier à la maison plutôt qu'à l'école."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "彼女は自分の幸せよりも他人の幸せを考えます。(Kanojo wa jibun no shiawase yorimo tanin no shiawase o kangaemasu.)",
+          "traduction": "Elle pense plus au bonheur des autres qu'à son propre bonheur.",
+          "explication": "Dans cet exemple, 'yorimo' est utilisé pour montrer que le personnage pense plus au bonheur des autres qu'à son propre bonheur."
+        }
+      ],
+      "humour": "Pour te souvenir de 'yorimo', imagine un yoyo qui monte et descend. Il est toujours 'plus que' le niveau où il était avant, n'est-ce pas ? Allez, envoie ce yoyo 'plus haut' dans ton apprentissage du japonais !"
+    },
+    {
+      "kanji": "冬",
+      "kana": "ふゆ",
+      "fr": "hiver",
+      "analyse": "'Fuyu' est le mot japonais pour 'hiver'. Il est écrit en kanji avec le caractère 冬. En hiragana, on l'écrit ふゆ. C'est un mot très courant, donc il est important de le connaître !",
+      "exemples": [
+        "冬が来た。- Fuyu ga kita. - L'hiver est arrivé.",
+        "冬は寒い。 - Fuyu wa samui. - Il fait froid en hiver.",
+        "冬休み - Fuyu Yasumi - Vacances d'hiver"
+      ],
+      "humour": "Savais-tu que les Japonais adorent l'hiver ? Ils aiment le froid, la neige, et surtout... les batailles de boules de neige ! Alors n'oublie pas : 冬は雪合戦の季節です！(Fuyu wa yuki gassen no kisetsu desu !) - L'hiver, c'est la saison des batailles de boules de neige !",
+      "id": "96cba0b4-b209-461b-af57-3b7ba6b344ab"
+    },
+    {
+      "kanji": "服",
+      "kana": "ふく",
+      "fr": "vêtement",
+      "analyse": "'Fuku' est un nom commun qui signifie 'vêtement'. C'est un mot très utilisé dans la vie quotidienne. Attention, il ne faut pas le confondre avec 'fuku' (福) qui signifie 'chance' ou 'bonheur' !",
+      "exemples": [
+        "新しい服を買った (Atarashii fuku o katta) - J'ai acheté de nouveaux vêtements",
+        "この服は私のお気に入りです (Kono fuku wa watashi no okiniiri desu) - Ce vêtement est mon préféré"
+      ],
+      "humour": "N'oublie pas, si tu portes de beaux 'fuku', tu attireras peut-être la 'fuku' (la chance) !",
+      "id": "125ec975-f9cc-48d0-bcba-e65933e6972b"
+    },
+    {
+      "id": "9b0781d5-56d1-4c45-b88b-1ed2073b8b91",
+      "kanji": "眼鏡",
+      "kana": "めがね",
+      "fr": "lunettes",
+      "analyse": "Le mot 'megane' est utilisé pour désigner les lunettes en général. C'est un terme très courant et facile à retenir.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "メガネをかけています。",
+          "traduction": "Je porte des lunettes.",
+          "explication": "La phrase utilise le verbe 'kakeru' (かける) qui signifie 'mettre sur' en référence aux lunettes."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "新しいメガネが必要だ。",
+          "traduction": "J'ai besoin de nouvelles lunettes.",
+          "explication": "Ici, 'hitsuyou' (必要) signifie 'besoin'. Donc, la phrase signifie littéralement 'Nouvelles lunettes sont nécessaires'."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "彼はメガネをかけると全く違う人に見えるよ。",
+          "traduction": "Il a l'air d'une personne complètement différente quand il porte des lunettes.",
+          "explication": "Cette phrase utilise 'chigau' (違う) qui signifie 'différent'. 'Mieru' (見える) signifie 'sembler' ou 'paraître'."
+        }
+      ],
+      "humour": "Pour te souvenir du mot 'megane', pense à une mignonne petite grenouille qui porte des lunettes. Pourquoi une grenouille ? Parce que 'megane' ressemble un peu à 'me grenouille' en français, non ? Allez, rigole un peu, c'est juste pour t'aider à te souvenir !"
+    },
+    {
+      "id": "5add683d-e38b-4da5-b6d4-9402bee0d3ce",
+      "kanji": "可愛い",
+      "kana": "かわいい",
+      "fr": "mignon",
+      "analyse": "'Kawaii' est un adjectif très populaire au Japon, utilisé pour décrire quelque chose ou quelqu'un de mignon. C'est un mot que tu entendras souvent, surtout chez les jeunes. Il peut être utilisé pour décrire des personnes, des animaux, des objets, des vêtements, etc.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "この犬(いぬ)はとてもかわいいですね。",
+          "traduction": "Ce chien est très mignon, n'est-ce pas ?",
+          "explication": "Dans cet exemple, 'kawaii' est utilisé pour décrire un chien. On utilise 'とても' pour amplifier l'adjectif, donc 'とてもかわいい' signifie 'très mignon'."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "彼女(かのじょ)の新(あたら)しいヘアスタイルはかわいいと思(おも)う。",
+          "traduction": "Je pense que sa nouvelle coiffure est mignonne.",
+          "explication": "Ici, 'kawaii' est utilisé pour décrire une coiffure. Note que 'と思う' est utilisé pour exprimer une opinion."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "その赤ちゃんは笑(わら)うと更(さら)にかわいくなるね。",
+          "traduction": "Ce bébé devient encore plus mignon quand il rit, n'est-ce pas ?",
+          "explication": "Dans cet exemple, 'kawaii' est utilisé avec '更に' qui signifie 'encore plus'. Donc '更にかわいい' signifie 'encore plus mignon'."
+        }
+      ],
+      "humour": "Un moyen facile de te souvenir de 'kawaii' est de penser à une 'kawaii-ne' (caline) qui est souvent mignonne. Allez, souris un peu, c'est mignon, non ?"
+    },
+    {
+      "id": "09d1296a-eefc-4527-8407-57c889ec13da",
+      "kanji": "ラーメン",
+      "kana": "らーめん",
+      "fr": "ramen",
+      "analyse": "Le mot 'ramen' est un emprunt au chinois et désigne un plat populaire de nouilles dans un bouillon de viande ou de poisson, souvent garni de viande de porc, de pousses de bambou, d'algues et d'oignons verts.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "ラーメんが好きです。(らーめんがすきです。)",
+          "traduction": "J'aime les ramen.",
+          "explication": "La structure de la phrase est 'sujet + ga + verbe'. Ici, 'ramen' est le sujet et 'suki desu' signifie 'j'aime'."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "ラーメン屋でラーメンを食べましょう。(らーめんやでらーめんをたべましょう。)",
+          "traduction": "Mangeons des ramen au restaurant de ramen.",
+          "explication": "La structure de la phrase est 'lieu + de + objet + o + verbe'. 'Ramenya' signifie 'restaurant de ramen' et 'tabemashou' est la forme volontaire du verbe 'manger'."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "ラーメンは日本の人気料理の一つです。(らーめんはにほんのにんきりょうりのひとつです。)",
+          "traduction": "Le ramen est l'un des plats populaires au Japon.",
+          "explication": "La structure de la phrase est 'sujet + wa + complément'. 'Ninki ryouri' signifie 'plat populaire' et 'hitotsu' signifie 'un'."
+        }
+      ],
+      "humour": "Pour te souvenir du mot 'ramen', pense à cette blague : Pourquoi les pâtes ne peuvent pas jouer au foot ? Parce qu'elles ont peur de finir en ramen! (ramené, tu l'as ?)"
+    },
+    {
+      "id": "641d67c7-e6f4-4f4f-a8c2-a97092c63d03",
+      "kanji": "部屋",
+      "kana": "へや",
+      "fr": "chambre",
+      "analyse": "Le mot 'heya' est un terme générique pour désigner une pièce ou une chambre. Il est souvent utilisé dans des contextes informels et familiers.",
+      "exemples": [
+        {
+          "niveau": "facile",
+          "phrase": "へやがきれいだね。(heya ga kirei da ne.)",
+          "traduction": "La chambre est propre, n'est-ce pas ?",
+          "explication": "Ici, 'heya' est utilisé pour désigner une chambre de manière générale."
+        },
+        {
+          "niveau": "intermédiaire",
+          "phrase": "ぼくのへやにきて。(boku no heya ni kite.)",
+          "traduction": "Viens dans ma chambre.",
+          "explication": "Dans cet exemple, 'heya' est utilisé pour désigner une chambre spécifique, celle de la personne qui parle."
+        },
+        {
+          "niveau": "avancé",
+          "phrase": "へやのなかにはなにもなかった。(heya no naka ni wa nani mo nakatta.)",
+          "traduction": "Il n'y avait rien dans la chambre.",
+          "explication": "Dans cet exemple, 'heya' est utilisé avec la particule 'no' pour indiquer un lieu précis dans la chambre."
+        }
+      ],
+      "humour": "Pour te souvenir de 'heya', imagine une chambre pleine de foin (hay en anglais). Une 'chambre de foin', c'est une 'heya' !"
+    }
+  ],
+  "conversations": [],
+  "questions": [
+    {
+      "id": "1f98e147-6521-482f-9bec-6b3aef0551c9",
+      "wordId": "641d67c7-e6f4-4f4f-a8c2-a97092c63d03",
+      "question": "utilise la dans une phrase",
+      "answer": "\"彼の部屋はいつもきれいに片付けられています。\" \n(Traduction : Sa chambre est toujours parfaitement rangée.)",
+      "timestamp": 1752888640473
+    }
+  ]
+}
